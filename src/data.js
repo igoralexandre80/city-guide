@@ -1,80 +1,69 @@
 export const placeInfo = [
   {
     id: 1,
-    headerTitle: 'Lorem ipsum',
-    headerSubTitle: 'soluta numquam',
+    headerTitle: 'Baía do Sancho',
+    headerSubTitle: 'Fernando de Noronha',
     headerText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit laboriosam cum recusandae quas? Natus, alias architecto error, sunt quae non placeat a eius minus maiores libero laborum perferendis, nobis qui?',
-    title: 'Molestias officia excepturi',
+      'É a queridinha da ilha e presença certa em qualquer lista que envolva as praias mais bonitas do Brasil. Sua faixa de areia divide as águas cristalinas de diferentes tonalidades das imponentes falésias, recobertas pela vegetação.',
+    title: 'Considerada a Praia mais bonita do Brasil',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates qui voluptate odio quod doloremque unde reprehenderit velit quaerat. Deserunt voluptatem natus suscipit aliquid, eligendi sequi dicta porro? Laudantium, libero est?',
+      'Além da paisagem espetacular, é das melhores para mergulho livre do país, com ótima visibilidade e bancos de corais com vida marinha.',
     img: '.././images/garaj.jpg',
     maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123.3850145412064!2d37.600589158335865!3d55.72774864513666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54b0be3ac9d11%3A0x735806d25b3bdc55!2z0JzRg9C30LXQuSDRgdC-0LLRgNC10LzQtdC90L3QvtCz0L4g0LjRgdC60YPRgdGB0YLQstCwIMKr0JPQsNGA0LDQtsK7!5e0!3m2!1sru!2sru!4v1547763408711'
+      'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2'
   },
   {
     id: 2,
-    headerTitle: 'Architecto commodi',
-    headerSubTitle: 'commodi',
-    headerText:
-      'ipsum dolor sit, amet consectetur adipisicing elit. Dicta minus nulla nesciunt ex magni, fuga magnam accusantium sed nihil, eius similique? Dolores, ullam! Nisi magni, esse beatae ea suscipit asperiores!',
-    title: 'Lorem unitye',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Est incidunt quo veritatis ad, nobis dolorum corrupti excepturi, natus fugit necessitatibus nihil nam minus explicabo debitis quod accusamus consectetur a eaque.',
+    headerTitle: 'Mergulho',
+    headerSubTitle: 'Fernando de Noronha',
+    headerText: 'Prepare-se para conhecer as belezas subaquáticas do arquipélago e aproveitar um mergulho seguro e inesquecível.',
+    title: 'Aventure-se no mundo marinho de Fernando de Noronha',
+    description: 'Pra conhecer a magia desse paraíso de águas transparentes, deixe-se levar até as profundezas e aprecie um dos melhores destinos de mergulho do País e do mundo.',
     img: '.././images/mamm.jpg',
     maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1530.8494832689219!2d37.59693065124095!3d55.74157162835216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54baea59877dd%3A0xb4d0c3eb557a1c98!2zwqvQnNCe0KHQmtCe0JLQodCa0JjQmSDQlNCe0Jwg0KTQntCi0J7Qk9Cg0JDQpNCY0JjCuw!5e0!3m2!1sru!2sru!4v1547845790316'
+    'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2'
   },
   {
     id: 3,
-    headerTitle: 'Horund irute',
-    headerSubTitle: 'injoyguru',
-    headerText:
-      'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis quas voluptatum quisquam nemo ratione neque aspernatur! Modi veniam distinctio velit quidem? Asperiores ut, atque odio porro debitis unde obcaecati esse!',
-    title:
-      'elit. Fugit, provident corrupti repudiandae nihil harum vel? Ducimus quos inventore suscipit sed laudantium eum quae, ex obcaecati quisquam? Pariatur omnis in reiciendis!',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium labore modi error sed ad quis obcaecati aliquid officia rerum alias quia voluptatum, consequatur at optio quas nisi autem necessitatibus nemo!',
+    headerTitle: 'Pôr do sol',
+    headerSubTitle: 'Fernando de Noronha',
+    headerText: 'E a melhor notícia daquelas terras de origem vulcânica é que o pôr do sol pode ser observado de pontos com entrada gratuita (uma folga para o orçamento de quem desembarca em um dos endereços mais exclusivos e caros do país).',
+    title: 'Onde contemplar a beleza do Pôr do Sol em Noronha:',
+    description:'Uma alternativa ao Forte São Pedro do Boldró, o local mais procurado nos finais de tarde, nossa dica é a Pedra do Bode, um mirante natural entre as praias do Bode e a do Americano.',
     img: '.././images/pushkin.jpg',
-    maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17967.866965087615!2d37.60335432286895!3d55.74141791432578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb9384e1a3b2da434!2z0JPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3Ri9C5INC80YPQt9C10Lkg0JAu0KEuINCf0YPRiNC60LjQvdCw!5e0!3m2!1sru!2sru!4v1547878731704'
+    maps: 'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2',   
   },
   {
     id: 4,
-    headerTitle: 'Perspiciatis illum',
-    headerSubTitle: 'Voluptas similique',
-    headerText: 'Dolor sit amet, consectetur adipisicing elit. Illo, iste',
-    title: 'Perspiciatis illum',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda quibusdam nostrum dicta vitae, illo numquam autem excepturi rem unde eos exercitationem perferendis expedita, blanditiis eaque facilis explicabo aliquid doloribus rerum?',
+    headerTitle: 'Surf',
+    headerSubTitle: 'Fernando de Noronha',
+    headerText: 'Com cerca de 900 metros de areia clara e fofa e várias árvores. É o principal e mais constante pico com ondas tubulares e fortes, que podem passar dos 10 pés. Fundo de areia funcionando com swell de norte e nordeste.',
+    title: 'LAJE DO BODE',
+    description: 'Fica próximo da Cacimba. O fundo de pedra forma ondas perfeitas e tubulares, que variam de 3 a 8 pés, predominando as direitas. Muito boa para fotografar de dentro da água.',
     img: '.././images/tretyakovka.jpg',
-    maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.9848620916428!2d37.618675215617316!3d55.741392000339864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afe32078357%3A0xa50d6e8b9a7b028f!2z0JPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3QsNGPINCi0YDQtdGC0YzRj9C60L7QstGB0LrQsNGPINCz0LDQu9C10YDQtdGP!5e0!3m2!1sru!2sru!4v1547878659681'
+    maps: 'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2',   
   },
   {
     id: 5,
-    headerTitle: 'Earum fugiat',
-    headerSubTitle: 'Fugiat',
-    headerText: 'Illo mollitia',
-    title: 'Consequuntur quo',
-    description:
-      'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda illo numquam commodi nihil nam odit, minima perferendis delectus, quibusdam modi recusandae suscipit nobis cumque, veniam similique voluptas totam quasi mollitia.',
+    headerTitle: 'Mapa',
+    headerSubTitle: 'Fernando de Noronha',
+    headerText: 'Você pode interagir com os locais caso tenha alguma dúvida, portanto o recomendado é adquirir o seu mapa para explorar ao máximo todos os pontos da ilha',
+    title: 'Como se Localizar',
+    description: 'Mapas e pedindo informações',
     img: '.././images/dom-fotografii.jpg',
-    maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.9763498372804!2d37.59654121561725!3d55.741539900328505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54baea59877dd%3A0xb4d0c3eb557a1c98!2zwqvQnNCe0KHQmtCe0JLQodCa0JjQmSDQlNCe0Jwg0KTQntCi0J7Qk9Cg0JDQpNCY0JjCuw!5e0!3m2!1sru!2sru!4v1547878587877'
+    maps: 'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2',   
+
   },
   {
     id: 6,
-    headerTitle: 'Deserunt consequatur',
-    headerSubTitle: 'Excepturi sequi',
-    headerText:
-      'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi a voluptatem nostrum dolore necessitatibus, nisi provident placeat officia rerum saepe laudantium quod sunt animi cum porro eligendi molestias, ut quisquam.',
-    title: 'Animi nobis',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nostrum. Non, cupiditate facere quidem quibusdam atque aliquam corrupti minus esse dolor doloremque, vel aut. Quae eos quo consequuntur id commodi?',
+    headerTitle: 'Piscina Natural',
+    headerSubTitle: 'Fernando de Noronha',
+    headerText: 'As piscinas naturais de Fernando de Noronha são algumas das principais atrações da ilha. Algumas delas já caíram no conhecimento popular e fazem sucesso pelos Instagrams dos viajantes que já passaram por aqui.',
+    title: 'Piscina do Morro São José',
+    description: ' Para ter acesso a ela é obrigatório que o turista seja acompanhado por um condutor de visitantes credenciado pelo ICMBio. O caminho é feito pelas pedras, uma caminhada delicada que deve ser feita com calma, mas que vale a pena pelo visual. ',
     img: '.././images/mars.jpg',
-    maps:
-      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2244.397087990157!2d37.62463341561838!3d55.76897499821247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54a68e2e342b7%3A0x934bc1e9948c826b!2z0KbQtdC90YLRgCDQnNCw0YDRgQ!5e0!3m2!1sru!2sru!4v1547878491776'
+    maps: 'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2',   
+
   }
 ];
 
@@ -84,35 +73,32 @@ export const reviews = [
     name: 'John',
     avatar: '.././avatars/avatar-1.png',
     comment:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quaerat repellendus. Ad at sit laboriosam sint ea mollitia incidunt voluptatibus inventore libero dolorem velit dolor nobis odit tempora, ex consequuntur.'
+      'Uma das praias mais bonitas que já visitei. Para chegar até ela temos que descer uma escada que fica numa fenda (rochas). A praia faz parte do Parque Nacional Marinho, por isso a entrada é controlada e deve-se pagar a taxa do parque antes de ir'
   },
   {
     id: 2,
     name: 'Mike',
     avatar: '.././avatars/avatar-2.png',
     comment:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quaerat repellendus. Ad at sit laboriosam sint ea mollitia incidunt voluptatibus inventore libero dolorem velit dolor nobis odit tempora, ex consequuntur.'
+    'O snorkeling é um dos melhores da ilha, principalmente nas pedras do lado direito onde tem mais peixes. No centro onde é mais fundo não se vê tanta quantidade, a não ser perto de recifes, porém é onde se tem a possibilidade de ver animais diferentes (vi duas raias e um tartaruga no fundo).'
   },
   {
     id: 3,
     name: 'Sofia',
     avatar: '.././avatars/avatar-3.png',
-    comment:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quaerat repellendus. Ad at sit laboriosam sint ea mollitia incidunt voluptatibus inventore libero dolorem velit dolor nobis odit tempora, ex consequuntur.'
+    comment: 'Não dá vontade de ir embora, o pôr do sol é magnifico',
   },
   {
     id: 4,
     name: 'Joseph',
     avatar: '.././avatars/avatar-4.png',
-    comment:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quaerat repellendus. Ad at sit laboriosam sint ea mollitia incidunt voluptatibus inventore libero dolorem velit dolor nobis odit tempora, ex consequuntur.'
+    comment: 'Ondas iradas faz nome ao lugar'
   },
   {
     id: 5,
     name: 'Natasha',
     avatar: '.././avatars/avatar-5.png',
-    comment:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quaerat repellendus. Ad at sit laboriosam sint ea mollitia incidunt voluptatibus inventore libero dolorem velit dolor nobis odit tempora, ex consequuntur.'
+    comment: 'As piscinas naturais são simplesmentes fantásticas',
   }
 ];
 
@@ -126,45 +112,41 @@ export const detailInfo = {
   description:
     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates qui voluptate odio quod doloremque unde reprehenderit velit quaerat. Deserunt voluptatem natus suscipit aliquid, eligendi sequi dicta porro? Laudantium, libero est?',
   img: '.././images/garaj.jpg',
-  maps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123.3850145412064!2d37.600589158335865!3d55.72774864513666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54b0be3ac9d11%3A0x735806d25b3bdc55!2z0JzRg9C30LXQuSDRgdC-0LLRgNC10LzQtdC90L3QvtCz0L4g0LjRgdC60YPRgdGB0YLQstCwIMKr0JPQsNGA0LDQtsK7!5e0!3m2!1sru!2sru!4v1547763408711'
+  maps:'https://www.google.com/maps/d/embed?mid=1cz2t1QctUPVP7CrcQ-95sHv4c7xhDSK2'
 };
 
 export const news = [
   {
     id: 1,
-    newsTitle: 'Lorem ipsum',
-    newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+    newsTitle: 'Praias espetaculares',
+    newsText: "Dificil fazer uma lista de apenas 10 praias mais lindas, quando ainda há a Ponta das Caracas, a Praia da Quixabinha, o Buraco da Raquel, a Baía dos Golfinhos e cada cantinho paradisíaco de Fernando de Noronha!"
   },
   {
     id: 2,
-    newsTitle: 'Lorem ipsum',
-    newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+    newsTitle: 'Mergulho também pode ser feito por iniciantes',
+    newsText: 'Com o mergulho em Fernando de Noronha, você não precisa ter experiência ou mesmo saber nadar ..'
   },
   {
     id: 3,
-    newsTitle: 'Lorem ipsum',
+    newsTitle: 'Vista Espetacular',
     newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+      'Mais próximo ao centro histórico da ilha, o Forte da Vila dos Remédios é outro endereço, com vistas únicas das praias do Meio e da Conceição, com o Morro do Pico ao fundo',
   },
   {
     id: 4,
-    newsTitle: 'Lorem ipsum',
+    newsTitle: 'Melhor época para ir a Fernando de Noronha',
     newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+    'A melhor época para ir a Fernando de Noronha é na alta temporada, que vai de novembro a abril. De dezembro a março o vento muda de direção, fazendo com que as praias do mar de dentro ofereçam ondas tubulares de até 12 pés. ',
   },
   {
     id: 5,
-    newsTitle: 'Lorem ipsum',
+    newsTitle: 'Como se localizar',
     newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+      'Interaja com os locais ou compre um mapa em qualquer ponto turístico da ilha.',
   },
   {
     id: 6,
-    newsTitle: 'Lorem ipsum',
-    newsText:
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure maiores optio praesentium voluptate natus velit atque eaque eos quae perspiciatis. Perferendis reprehenderit aspernatur excepturi sint saepe quam laboriosam provident ducimus.'
+    newsTitle: 'Piscinas Naturais',
+    newsText: 'Escolha uma das muitas piscinas naturais e relaxe.'
   }
 ];

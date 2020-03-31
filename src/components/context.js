@@ -13,8 +13,22 @@ const InfoContext = React.createContext();
         info: placeInfo,
         reviews: reviews,
         detailInfo: detailInfo,
-        new: news
+        news: news
     }
+
+    getItem = id => {
+        const item = this.state.info.find(item => item.id ===id);
+        return item
+    }
+
+    handleDetail = id => {
+        const item = this.getItem(id);
+        this.setState(() => {
+        return {
+            detailInfo: item
+        }
+        });
+    };
 
     render () {
       return (
@@ -29,8 +43,8 @@ const InfoContext = React.createContext();
               news: this.state.news,
               name: this.state.name,
               avatar: this.state.avatar,
-              comment: this.state.comment
-
+              comment: this.state.comment,
+              handleDetail: this.handleDetail
           }}>
               {this.props.children}
           </InfoContext.Provider>
